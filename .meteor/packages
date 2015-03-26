@@ -16,3 +16,5 @@ iron:router
 dburles:collection-helpers
 zimme:iron-router-auth
 accounts-ui
+aldeed:autoform
+ongoworks:security
