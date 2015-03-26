@@ -1,3 +1,5 @@
+var subs = new SubsManager();
+
 Router.plugin('auth', {
   authenticate: 'home',
   authorize: {
